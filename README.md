@@ -56,7 +56,7 @@ By default, it displays sub-regions which were of particular interest when this 
 
 #### Cases in India
 
-![cases](images/cases in India.png)
+![cases in india](images/cases in India.png)
 
 
 

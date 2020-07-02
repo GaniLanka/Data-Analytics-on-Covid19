@@ -54,6 +54,12 @@ The cases  graphic displays a line chart by sub-region of either `CONFIRMED`, `A
 
 By default, it displays sub-regions which were of particular interest when this dashboard was created. The dropdown-bar on the bottom allows you to select different sub-regions for display, either countries for the `Worldwide` or `Europe` focus or states/provinces for the `United States` or `China` focus. Typing in the dropdown-bar will allow you to search for sub-regions.
 
+#### Cases in India
+
+![cases](images/cases in India.png)
+
+
+
 ### Infection Map
 
 ![map](images/map.png)

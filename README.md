@@ -56,9 +56,9 @@ By default, it displays sub-regions which were of particular interest when this 
 
 ### Cases in India
 
-![cases in india](images/cases in India.png)
+![india cases](images/cases in India.png)
 
-The cases in India chart
+The cases in India chart of `CONFIRMED`,`ACTIVE`, `RECOVERED`,or `DEATHS`,
 
 
 

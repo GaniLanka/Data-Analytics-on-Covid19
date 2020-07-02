@@ -9,7 +9,7 @@ import numpy as np
 import plotly.graph_objects as go
 
 
-
+print()
 print("processing India_states data ")
 print()
 with open("etlindia.py") as infile:
@@ -33,7 +33,7 @@ dash_colors = {
     'text': '#ffffff',
     'grid': '#cecece',
     'yellow': '#FFFF00',
-    'red':'FF0000',
+    'red':'#FF0000',
     'blue': '#466fc2',
     'green': '#5bc246'
 }
@@ -207,7 +207,7 @@ def recovered(view):
                   'delta': {'reference': delta,
                             'valueformat': ',g',
                             'relative': False,
-                            'increasing': {'color': dash_colors['red']},
+                            'increasing': {'color': dash_colors['green']},
                             'decreasing': {'color': dash_colors['green']},
                             'font': {'size': 25}},
                   'number': {'valueformat': ',',
@@ -259,7 +259,7 @@ def deaths(view):
                   'domain': {'y': [0, 1], 'x': [0, 1]}}],
         'layout': go.Layout(
             title={'text': "DEATHS TO DATE"},
-            font=dict(color=dash_colors['yellow']),
+            font=dict(color=dash_colors['red']),
             font_family='Handlee',
             paper_bgcolor=dash_colors['background'],
             plot_bgcolor=dash_colors['grid'],
@@ -699,7 +699,7 @@ def India_trend(view):
             }
 
 app.layout = html.Div(style={'backgroundColor': dash_colors['background']}, children=[
-    html.H1(children='COVID-19',
+    html.H1(children='COVID-Dashboard',
             style={
                 'textAlign': 'center',
                 'text-decoration':'underline',
@@ -707,7 +707,7 @@ app.layout = html.Div(style={'backgroundColor': dash_colors['background']}, chil
                 'font-family':'Abril Fatface',
                 'font-style':'Italic',
                 'font-size': '60px',
-                'color': dash_colors['yellow'],
+                'color': dash_colors['text'],
                 'margin':'1px 3px 8px 3px',
                 'border': '2px solid white'
             }

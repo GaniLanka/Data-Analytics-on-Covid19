@@ -7,19 +7,19 @@ This is the data repository for the covid-19 Data Dashboard for analysing the ca
 
  ## Focus selection
 
- The dashboard can be set on the pandemic globally, or with a focus on either the United States, Europe, or China through the radio buttons on the top:
+ The dashboard can be set on the whole global data, or with a focus on either the Worldwide,United States or Europe through the radio buttons on the top:
 
  ![focus](images/focus_select.png)
 
- This button changes the underlying data for each displayed chart to reflect the selected region.
+ This button changes the essential data for each displayed chart to reflect the selected region.
 
- Each evening at roughly 5pm Eastern time, Johns Hopkins updates their data source with new cases from the day. My dashboard automatically runs an ETL script to download the new data, process it into the format required by the dashboard, and upload it to Heroku. The headline here declares when the data was most recently updated.
+ Each evening at roughly 5pm Eastern time, Johns Hopkins updates their data source with new cases from the day. My dashboard automatically runs an ETL script to download the new data, process it into the format required by the dashboard, and upload it. The headline here declares when the data was most recently updated.
 
  ---
 
  ## Components
 
-There are five main components of the dashboard: the indicators, the infections rates for the selected region, the case analysis by sub-region, the infection map, and the trajectory chart.
+There are six main components of the dashboard: the indicators, the infections rates for the selected region, the case analysis by sub-region,the cases in India, the infection map, and the trajectory chart.
 
 ### Indicators
 

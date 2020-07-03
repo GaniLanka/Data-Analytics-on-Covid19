@@ -1,5 +1,5 @@
 # COVID-19
-A web dashboard deployed on Heroku at [https://covid-19-raffg.herokuapp.com/](https://covid-19-raffg.herokuapp.com/). Built in Python and [Dash](https://dash.plot.ly/), with charts made in [Plotly](https://plot.ly/). The data is provided by [Johns Hopkins Center for Systems Science and Engineering](https://github.com/CSSEGISandData/COVID-19) and automatically updates to the dashboard nightly.
+This is the data repository for the covid-19 Data Dashboard for analysing the cases in our worldwide.It was build in Python and [Dash](https://dash.plot.ly/),with charts made in [Plotly](https://plot.ly/).The data provided by [Johns Hopkins Center for Systems Science and Engineering] and automatically updates to the dashboard daily.
 
  ![dashboard](images/screenshot.png)
 

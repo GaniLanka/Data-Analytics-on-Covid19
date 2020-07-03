@@ -1,5 +1,5 @@
 # COVID-19
-This is the data repository for the covid-19 Data Dashboard for analysing the cases in our worldwide.It was build in Python and [Dash](https://dash.plot.ly/),with charts made in [Plotly](https://plot.ly/).The data provided by [Johns Hopkins Center for Systems Science and Engineering] and automatically updates to the dashboard daily.
+This is the data repository for the Covid-19 data Dashboard for analysing the cases in our Worldwide.It was build in Python and [Dash](https://dash.plot.ly/),with charts made in [Plotly](https://plot.ly/).The data provided by [Johns Hopkins Center for Systems Science and Engineering] and automatically updates to the dashboard daily.
 
  ![dashboard](images/screenshot.png)
 

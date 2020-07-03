@@ -59,12 +59,12 @@ By default, it displays sub-regions which were of particular interest when this 
 
 ### Cases in India
 
-![cases in India](images/cases in India.png)
+![cases in India](images/cases_in_India.png)
 
 The cases in covid-19 india trend chart will displays the `CONFIRMED`,`ACTIVE`, `RECOVERED`,or `DEATHS`, in India by date.Hovering the mouse over the chart will reveal the counts for each of these measures on the specific date. Using the mouse, you can zoom in and out or click and drag to select a box to zoom in on.
 Additionally, hovering over the chart (or any chart on the dashboard) will make visible several control buttons in the top right of the chart. There are slightly different options for each chart, but of particular usefulness is the ability to reset the chart back to original zoom level.
 
-This link will provides some information realted to India cases.https://covid19indiaa.000webhostapp.com/statewise.php in this we have to see India map when we click a particular state it will reveal the number of cases data.So in this we have to chech each and every state detailed cases data in India.
+Below the chart we have see a link that is `For visualization of states in India..Please visit this link`.This link will provides some information related to India cases https://covid19indiaa.000webhostapp.com/statewise.php in this we have to see India map when we click a particular state it will reveal the number of cases data to a particular selected state.So in this we have to check each and every state detailed cases data in India.
 
 
 

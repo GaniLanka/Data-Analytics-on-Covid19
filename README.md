@@ -29,9 +29,12 @@ There are four indicators, each consisting of the current value for the indicato
 
 -**CUMULATIVE CONFIRMED** is the total running of all the cases tested and confirmed in the selected region.
 -   Note: This value is highly dependent upon the testing rate and almost certainly is an underestimate of actual infections.
+
 **CURRENTLY ACTIVE** measures only the cases active today.  
 It is calculated as `ACTIVE = CONFIRMED - DEATHS - RECOVERED`
+
 **DEATHS TO DATE** measures the total running of all COVID-19-related deaths
+
 **RECOVERED CASES** is the number of cases in which the patient is suppose to have recovered from the illness and is no longer infected nor contagious.
 
 ### Regional charts

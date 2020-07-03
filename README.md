@@ -25,13 +25,14 @@ There are six main components of the dashboard: the indicators, the infections r
 
 ![indicators](images/indicators.png)
 
-There are four indicators, each consisting of the current value for the indicator, in red, and the change from yesterday, in blue for increasing values and green for decreasing.
+There are four indicators, each consisting of the current value for the indicator, in yellow, and the change from yesterday, in red for increasing values and green for decreasing.But in this the deaths to date will completely in red and the recovered cases will be in green remaining two are in the above colors format.
 
-- **CUMULATIVE CONFIRMED** is the running total of all cases tested and confirmed in the selected region. *(Note: This value is highly dependent upon the testing rate and almost certainly is an underestimate of actual infections.)*
-- **CURRENTLY ACTIVE** measures only the cases active today.  
+**CUMULATIVE CONFIRMED** is the total running of all the cases tested and confirmed in the selected region.
+    Note: This value is highly dependent upon the testing rate and almost certainly is an underestimate of actual infections.
+**CURRENTLY ACTIVE** measures only the cases active today.  
 It is calculated as `ACTIVE = CONFIRMED - DEATHS - RECOVERED`
-- **DEATHS TO DATE** measures the running total of all COVID-19-related deaths
-- **RECOVERED CASES** is the number of cases in which the patient is deemed to have recovered from the illness and is no longer infected nor contagious.
+**DEATHS TO DATE** measures the total running of all COVID-19-related deaths
+**RECOVERED CASES** is the number of cases in which the patient is suppose to have recovered from the illness and is no longer infected nor contagious.
 
 ### Regional charts
 

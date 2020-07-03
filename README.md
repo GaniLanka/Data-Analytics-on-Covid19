@@ -34,12 +34,12 @@ Note: This value is highly dependent upon the testing rate and almost certainly 
 
 **DEATHS TO DATE** measures the total running of all COVID-19-related deaths
 
-**RECOVERED CASES** is the number of cases in which the patient is suppose to have recovered from the illness and is no longer infected nor contagious.
+**RECOVERED CASES** is the number of cases in which the patient is supposed to have recovered from the illness and is no longer infected nor contagious.
 
 ### Regional charts
 
 ![regional charts](images/regional.png)
-There are two regional charts, described below. These charts can display absolute infection numbers within the region, or numbers relative to the region's population. Selecting the radio button for `Values per 100,000 of population` normalizes each curve by population and can make it easier to compare the infection rates of regions with vastly different population counts. Selecting `Total values` returns the charts to absolute numbers.
+There are two regional charts, described below. These charts can display the absolute infection numbers within the region, or numbers which are relative to the region's population. Selecting the radio button for `Values per 100,000 of population` normalizes each curve by population and can make it easier to compare the infection rates of regions with vastly different population counts. Selecting `Total values` returns the charts to absolute numbers.
 
 #### Infections
 

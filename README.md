@@ -39,13 +39,13 @@ Note: This value is highly dependent upon the testing rate and almost certainly 
 ### Regional charts
 
 ![regional charts](images/regional.png)
-There are two regional charts, described below. These charts can display the absolute infection numbers within the region, or numbers which are relative to the region's population. Selecting the radio button for `Values per 100,000 of population` normalizes each curve by population and can make it easier to compare the infection rates of regions with vastly different population counts. Selecting `Total values` returns the charts to absolute numbers.
+There are two regional charts, described below. These charts can display the absolute infection numbers within the region, or numbers which are relative to the region's population. Selecting the radio button for `Values per 100,000 of population` normalizes each curve by population and can make it easier to compare the infection rates of regions with extremely different population counts. Selecting `Total values` returns the charts to absolute numbers.
 
 #### Infections
 
 ![infections](images/infections.png)
 
-The infections chart displays the totals for `CONFIRMED`, `ACTIVE`, `RECOVERED`, and `DEATHS` for the selected region, by date. Hovering the mouse over the chart will reveal the counts for each of these measures on the specific date. Using the mouse, you can zoom in and out or click and drag to select a box to zoom in on. Additionally, hovering over the chart (or any chart on the dashboard) will make visible several control buttons in the top right of the chart. There are slightly different options for each chart, but of particular usefulness is the ability to reset the chart back to original zoom level.
+The infections chart will displays the totals for `CONFIRMED`, `ACTIVE`, `RECOVERED`, and `DEATHS` for the selected region, by date. Hovering the mouse over the chart will reveal the counts for each of these measures on the specific date. Using the mouse, you can zoom in and out or click and drag to select a box to zoom in on. Additionally, hovering over the chart (or any chart on the dashboard) will make visible several control buttons in the top right of the chart. There are slightly different options for each chart, but of particular usefulness is the ability to reset the chart back to original zoom level.
 
 As with the other two line charts on this dashboard, clicking on an item in the legend will temporarily remove that item from the chart. Clicking again will add it back. Double-clicking an item will remove all other items and isolate that singular item on the chart. Double-clicking again will add back all items.
 
@@ -53,15 +53,18 @@ As with the other two line charts on this dashboard, clicking on an item in the 
 
 ![cases](images/cases.png)
 
-The cases  graphic displays a line chart by sub-region of either `CONFIRMED`, `ACTIVE`, `RECOVERED`, or `DEATHS`, selectable with the radio buttons below the chart. If the selected region is `Worldwide` or `Europe`, the sub-regions displayed are countries. If the selected region is `United Sates` or `China`, the sub-regions are the states or provinces. On hover, the exact count of the selected metric is displayed for the sub-region the mouse is over.
+The cases displays a line chart by sub-region of either `CONFIRMED`, `ACTIVE`, `RECOVERED`, or `DEATHS`, with the selectable radio buttons below the chart. If the selected region is `Worldwide` or `Europe`, the sub-regions displayed are countries. If the selected region is `United States` or `France`, the sub-regions are the states or provinces. On hover, the exact count of the selected metric is displayed for the sub-region the mouse is over.
 
-By default, it displays sub-regions which were of particular interest when this dashboard was created. The dropdown-bar on the bottom allows you to select different sub-regions for display, either countries for the `Worldwide` or `Europe` focus or states/provinces for the `United States` or `China` focus. Typing in the dropdown-bar will allow you to search for sub-regions.
+By default, it displays sub-regions which were of particular interest when this dashboard was created. The dropdown-bar on the bottom allows you to select different sub-regions for display, either countries for the `Worldwide` or `Europe` focus or states/provinces for the `United States` or `France` focus. Typing in the dropdown-bar will allow you to search for sub-regions.
 
 ### Cases in India
 
 ![cases in India](images/cases in India.png)
 
-The cases in India chart of `CONFIRMED`,`ACTIVE`, `RECOVERED`,or `DEATHS`,
+The cases in covid-19 india trend chart will displays the `CONFIRMED`,`ACTIVE`, `RECOVERED`,or `DEATHS`, in India by date.Hovering the mouse over the chart will reveal the counts for each of these measures on the specific date. Using the mouse, you can zoom in and out or click and drag to select a box to zoom in on.
+Additionally, hovering over the chart (or any chart on the dashboard) will make visible several control buttons in the top right of the chart. There are slightly different options for each chart, but of particular usefulness is the ability to reset the chart back to original zoom level.
+
+This link will provides some information realted to India cases.https://covid19indiaa.000webhostapp.com/statewise.php in this we have to see India map when we click a particular state it will reveal the number of cases data.So in this we have to chech each and every state detailed cases data in India.
 
 
 
